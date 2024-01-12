@@ -9,7 +9,7 @@ Topics
 5. Sequences, Collections and Iterations
 6. Functions
 7. Finding and Fixing Code Bugs
-8. Object-Oriented Programming (OOP)
+8. Object-Oriented Programming (OOP -- if time permits)
 9. Modules and Packages
 10. File Input and Output
 11. Pandas
